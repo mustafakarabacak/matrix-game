@@ -1,0 +1,4 @@
+com/asml/rnd/traverse/arraytraverser/service/ArrayTraverser.class
+com/asml/rnd/traverse/Application.class
+com/asml/rnd/traverse/arraytraverser/service/impl/SpiralArrayTraverser.class
+com/asml/rnd/traverse/arraytraverser/exception/TraverseException.class
