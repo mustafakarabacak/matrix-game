@@ -1,6 +1,8 @@
-# Application starts with the main in Application class
+# To Start the Application
+Run the main in Application class
 
-# Use "mvn clean install" to build the application and run the tests
+#  To build the application and run the tests
+Use "mvn clean install"
 
 # Solution improvements:
     - Logger is used to print the debug values but log level is entered 
